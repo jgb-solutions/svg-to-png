@@ -11,7 +11,7 @@
   "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^3.0.0",
-    "glob": "^7.1.6",
+    "glob": "^13.0.6",
     "image-size": "^0.8.3",
     "sharp": "^0.23.4",
     "yargs": "^15.1.0"
